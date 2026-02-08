@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity CTFs and Open Source Web Projects**
 
-- 🤝 I’m looking for help with **Advanced Network Security and Cryptography**
-
 - 💬 Ask me about **C++, Python, MySQL and NCC training**
 
 - 📫 How to reach me **sagarjohnjoseph@gmail.com**
